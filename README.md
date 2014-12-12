@@ -1,3 +1,12 @@
+### R Programming at Coursera
+
+This is my forked version of https://github.com/rdpeng/ProgrammingAssignment2
+Feel free to comment on my coding style as I'm new to R.
+
+bob
+
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
